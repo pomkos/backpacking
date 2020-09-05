@@ -4,4 +4,4 @@
 
 [Source](https://www.rei.com/learn/expert-advice/backpacking-beginners.html)
 
-This repo is to share my backpacking lists, specifically the [to bring](https://github.com/pomkos/backpacking/blob/master/To%20Bring%20List.md). I will be editing and updating the [destinations](https://github.com/pomkos/backpacking/blob/master/Destinations.md) as I come across anything.
+This repo is to share my backpacking lists, specifically the [to bring list](https://github.com/pomkos/backpacking/blob/master/To%20Bring%20List.md). I will be editing and updating the [destinations](https://github.com/pomkos/backpacking/blob/master/Destinations.md) as I come across anything.
