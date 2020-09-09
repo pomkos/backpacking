@@ -82,13 +82,14 @@ Stuff that are needed for the trip, just not _the_ trip
 	* [ ] Long pants x1 #optional 
 	* [ ] T-shirt x1
 	* [ ] Sweater #optional 
-* Sanitation
+* Hygiene
 	* [ ] Toothbrush
 	* [ ] Toothpaste
+	* [ ] Nail clippers
+	* [ ] Beard trimmer
 * Foodstuff
 	* [ ] Laxary food #optional
 	* [ ] Food scale #optional 
-	* [ ] 
 * [ ] House keys
 * [ ] Laptop + charger
 * [ ] Laptop battery bank
