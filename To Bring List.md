@@ -3,6 +3,7 @@ The basics that every backpacking trip should have.
 
 ## Shelter
 * [ ] Tent
+* [ ] Tent ground cover
 * [ ] Sleeping bag
 * [ ] Sleeping pad #optional 
 * [ ] Backpack
@@ -12,8 +13,6 @@ The basics that every backpacking trip should have.
 * [ ] Lighter, for fire
 * [ ] Spare matches
 * [ ] Deodorant
-* [ ] Bug spray
-* [ ] Sunblock #optional 
 
 ## Clothing
 * [ ] Boxers x2
@@ -23,6 +22,11 @@ The basics that every backpacking trip should have.
 * [ ] Long pants x1
 * [ ] T shirt x2
 * [ ] Sweatshirt x1 #optional 
+
+## Safety
+* [ ] Bug spray
+* [ ] Bear spray
+* [ ] Sunblock
 
 ## Foodstuff
 Around 3000 calories/day
@@ -49,7 +53,7 @@ Around 3000 calories/day
 	* [ ] Spotify music, offline
 	* [ ] Guthook Guide app
 * Map should contain
-	* [ ] Camping destination
+	* [ ] Camp sites
 	* [ ] Trail
 	* [ ] Water source
 
