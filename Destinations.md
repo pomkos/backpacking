@@ -1,6 +1,58 @@
 # To Visit
-
+In order of drive through
+## Option 1
+27hrs
+* Indiana
+	* [Indiana Dunes NP](https://www.nps.gov/indu/index.htm) #short
+		* [Camping](https://www.nps.gov/indu/planyourvisit/campgrounds.htm) $25/night
+	* [John Grubb Ridge](https://www.alltrails.com/trail/us/indiana/john-grubb-ridge-and-terrill-ridge-loop-trail)
+	* [Tecumseh Trail](https://www.alltrails.com/trail/us/indiana/the-tecumseh-trail)
+* Illinois
+	* Maybe
+		* [River to River Trail, part 1](https://www.alltrails.com/trail/us/illinois/river-to-river-trail-first-section)
+		* [River to River Trail, full](https://www.alltrails.com/trail/us/illinois/river-to-river-trail?ref=header)
+	* Promising, series of short (6mi) hikes
+		* Camping $10/night
+		* [Rice Hollow Trail Loop](https://www.alltrails.com/trail/us/illinois/rice-hollow-trail-loop) - 6.9mi
+		* [High Knob to Twin Towers Loop Trail](https://www.alltrails.com/trail/us/illinois/high-knob-to-twin-towers-loop-trail) - 6.1mi
+		* [Buzzards Point and Whiskey Cave](https://www.alltrails.com/trail/us/illinois/buzzards-point-and-whiskey-cave-loop) - 6.5mi
+		* [Garden of the Gods Backdoor Loop](https://www.alltrails.com/trail/us/illinois/garden-of-the-gods-backdoor-loop-trail--2) - 10mi
+			* Has access to indian point and river to river trails
+		* [Whiskey Cave Loop Trail](https://www.alltrails.com/trail/us/illinois/whiskey-cave-loop-trail) - 6.5mi
+* Wisconsin
+	* [Ice Age Trail 1](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-st-croix-falls-to-trade-river) - 28mi
+	* [Ice Age Trail 2](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-monches-to-kettle-morraine-state-forest) - 45mi
+* Minnesota
+	* [Superior Hiking Trail](https://www.alltrails.com/trail/us/minnesota/superior-hiking-trail-section-4/) - 49mi
+* South Dakota
+	* [Badlands](https://www.nps.gov/badl/index.htm)
+* Wyoming
+	* [Hitchcock Nature Center Loop](https://www.alltrails.com/trail/us/iowa/hitchcock-nature-center-loop-trail) - 6.3mi #mustsee 
+		* $7.50 [camping](https://www.pottconservation.com/parks/hitchcock_nature_center/) 
+## Option 2
+26hrs
+* Indiana
+* Illinois
+* Iowa
+* Nebraska
+		* [Brent's Trail](https://www.alltrails.com/explore/trail/us/iowa/brents-trail--2) #short
+		* [Scotts Bluff](https://www.nps.gov/scbl/index.htm) #short 
+* Wyoming
+## Option 3
+28hrs
+* Indiana
+* Illinois
+* Missouri
+* Kansas/Nebraska
+* Wyoming
+	* [Yellowstone](https://www.nps.gov/yell/index.htm)
 # Would Visit
+* Colorado
+	* [Black Canyon](https://www.nps.gov/blca/index.htm) of Gunnison National Park 
+	* [Four Pass Loop](https://www.fs.usda.gov/recarea/whiteriver/recarea/?recid=40555)
+* Michigan
+	* [Manistee River Loop Trail](https://www.alltrails.com/trail/us/michigan/the-manistee-river-trail) - 19mi
+	* [Porcupine Mountain NP](https://www.alltrails.com/trail/us/michigan/escarpment-government-peak-little-carp-river-amp-lake-superior-trails) -
 * Montana
 	* [Glacier National Park](https://www.nps.gov/glac/index.htm)
 * New Mexico
@@ -16,14 +68,13 @@
 	* [Shenandoah National Park](https://www.nps.gov/shen/index.htm) #blackbears
 * Wyoming
 	* [Grand Teton](https://www.nps.gov/grte/index.htm) #blackbears #grizzlybears
-	* [Yellowstone](https://www.nps.gov/yell/index.htm)
 # Avoid
 * Arizona
 	* [Petrified Forest National Park](https://www.nps.gov/pefo/planyourvisit/conditions.htm) - no overnight stays
 	* [Saguaro National Park](https://www.nps.gov/sagu/index.htm) - wildfire 50% contained as of Aug 30
 * California
 	* [Lassen Volcanic](https://www.nps.gov/lavo/index.htm) - bears obtained food from backpackers; manzanita lake closed due to river otters
-	* [Yosemite Valley](https://www.nps.gov/yose/planyourvisit/yv.htm) - ongoing wildfire as of Sep 6
+	* [Yosemite Valley](https://www.nps.gov/yose/planyourvisit/yv.htm) - closed due to wildfire as of Sep 18
 * Colorado
 	* Rocky Mountain National Park - [Cameron peak fire](https://www.nps.gov/romo/index.htm) as of Sep 6
 		* No fires allowed, except gas stove

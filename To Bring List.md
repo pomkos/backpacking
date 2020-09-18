@@ -98,3 +98,4 @@ Stuff that are needed for the trip, just not _the_ trip
 * [ ] Laptop + charger
 * [ ] Laptop battery bank
 * [ ] Phone car mount
+
