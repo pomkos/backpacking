@@ -94,8 +94,11 @@ Stuff that are needed for the trip, just not _the_ trip
 * Foodstuff
 	* [ ] Laxary food #optional
 	* [ ] Food scale #optional 
+* Work
+	* [ ] Laptop + charger
+	* [ ] Laptop battery bank
+	* [ ] API Labbook
+	* [ ] Machine Learning textbook
 * [ ] House keys
-* [ ] Laptop + charger
-* [ ] Laptop battery bank
 * [ ] Phone car mount
 
