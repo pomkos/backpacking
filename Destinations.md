@@ -2,12 +2,12 @@
 In order of drive through
 ## Option 1
 27hrs
-* Indiana
+* Indiana 9/25
 	* [Indiana Dunes NP](https://www.nps.gov/indu/index.htm) #short
 		* [Camping](https://www.nps.gov/indu/planyourvisit/campgrounds.htm) $25/night
 	* [John Grubb Ridge](https://www.alltrails.com/trail/us/indiana/john-grubb-ridge-and-terrill-ridge-loop-trail)
 	* [Tecumseh Trail](https://www.alltrails.com/trail/us/indiana/the-tecumseh-trail)
-* Illinois
+* Illinois 10/2ish
 	* Maybe
 		* [River to River Trail, part 1](https://www.alltrails.com/trail/us/illinois/river-to-river-trail-first-section)
 		* [River to River Trail, full](https://www.alltrails.com/trail/us/illinois/river-to-river-trail?ref=header)
@@ -19,14 +19,14 @@ In order of drive through
 		* [Garden of the Gods Backdoor Loop](https://www.alltrails.com/trail/us/illinois/garden-of-the-gods-backdoor-loop-trail--2) - 10mi
 			* Has access to indian point and river to river trails
 		* [Whiskey Cave Loop Trail](https://www.alltrails.com/trail/us/illinois/whiskey-cave-loop-trail) - 6.5mi
-* Wisconsin
+* Wisconsin 10/9ish
 	* [Ice Age Trail 1](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-st-croix-falls-to-trade-river) - 28mi
 	* [Ice Age Trail 2](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-monches-to-kettle-morraine-state-forest) - 45mi
-* Minnesota
+* Minnesota 10/16ish
 	* [Superior Hiking Trail](https://www.alltrails.com/trail/us/minnesota/superior-hiking-trail-section-4/) - 49mi
-* South Dakota
+* South Dakota 10/23ish
 	* [Badlands](https://www.nps.gov/badl/index.htm)
-* Wyoming
+* Wyoming 10/30ish
 	* [Hitchcock Nature Center Loop](https://www.alltrails.com/trail/us/iowa/hitchcock-nature-center-loop-trail) - 6.3mi #mustsee 
 		* $7.50 [camping](https://www.pottconservation.com/parks/hitchcock_nature_center/) 
 ## Option 2
