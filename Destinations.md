@@ -3,10 +3,13 @@ In order of drive through
 ## Option 1
 27hrs
 * Indiana 9/25
-	* [Indiana Dunes NP](https://www.nps.gov/indu/index.htm) #short
-		* [Camping](https://www.nps.gov/indu/planyourvisit/campgrounds.htm) $25/night
-	* [John Grubb Ridge](https://www.alltrails.com/trail/us/indiana/john-grubb-ridge-and-terrill-ridge-loop-trail)
-	* [Tecumseh Trail](https://www.alltrails.com/trail/us/indiana/the-tecumseh-trail)
+	* [x] [Indiana Dunes NP](https://www.nps.gov/indu/index.htm) #short
+		* ~~[Camping](https://www.nps.gov/indu/planyourvisit/campgrounds.htm) $25/night~~
+	* [x] [Prophetstown](https://www.in.gov/dnr/parklake/2971.htm)
+	* [ ] [Turkey Run State Park](https://www.alltrails.com/parks/us/indiana/turkey-run-state-park)
+	* Another time
+		* [John Grubb Ridge](https://www.alltrails.com/trail/us/indiana/john-grubb-ridge-and-terrill-ridge-loop-trail) - 19mi
+		* [Tecumseh Trail](https://www.alltrails.com/trail/us/indiana/the-tecumseh-trail) - 41mi
 * Illinois 10/2ish
 	* Maybe
 		* [River to River Trail, part 1](https://www.alltrails.com/trail/us/illinois/river-to-river-trail-first-section)
@@ -57,6 +60,8 @@ In order of drive through
 	* [Glacier National Park](https://www.nps.gov/glac/index.htm)
 * New Mexico
 	* [White Sands](https://www.nps.gov/whsa/index.htm)
+* New York
+	* [Avalanche Lake](https://www.alltrails.com/trail/us/new-york/avalanche-pass-and-avalanche-lake-trail)
 * Oregon
 	* [Crater Lake](https://www.nps.gov/crla/index.htm) - no food or gas, power outage
 * South Dakota
