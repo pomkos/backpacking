@@ -16,22 +16,23 @@ In order of drive through
 		* [River to River Trail, full](https://www.alltrails.com/trail/us/illinois/river-to-river-trail?ref=header)
 	* Promising, series of short (6mi) hikes
 		* Camping $10/night
-		* [Rice Hollow Trail Loop](https://www.alltrails.com/trail/us/illinois/rice-hollow-trail-loop) - 6.9mi
-		* [High Knob to Twin Towers Loop Trail](https://www.alltrails.com/trail/us/illinois/high-knob-to-twin-towers-loop-trail) - 6.1mi
-		* [Buzzards Point and Whiskey Cave](https://www.alltrails.com/trail/us/illinois/buzzards-point-and-whiskey-cave-loop) - 6.5mi
-		* [Garden of the Gods Backdoor Loop](https://www.alltrails.com/trail/us/illinois/garden-of-the-gods-backdoor-loop-trail--2) - 10mi
+		* [ ] [Rice Hollow Trail Loop](https://www.alltrails.com/trail/us/illinois/rice-hollow-trail-loop) - 6.9mi
+		* [ ] [High Knob to Twin Towers Loop Trail](https://www.alltrails.com/trail/us/illinois/high-knob-to-twin-towers-loop-trail) - 6.1mi
+		* [ ] [Buzzards Point and Whiskey Cave](https://www.alltrails.com/trail/us/illinois/buzzards-point-and-whiskey-cave-loop) - 6.5mi
+		* [ ] [Garden of the Gods Backdoor Loop](https://www.alltrails.com/trail/us/illinois/garden-of-the-gods-backdoor-loop-trail--2) - 10mi
 			* Has access to indian point and river to river trails
-		* [Whiskey Cave Loop Trail](https://www.alltrails.com/trail/us/illinois/whiskey-cave-loop-trail) - 6.5mi
+		* [ ] [Whiskey Cave Loop Trail](https://www.alltrails.com/trail/us/illinois/whiskey-cave-loop-trail) - 6.5mi
 * Wisconsin 10/9ish
-	* [Ice Age Trail 1](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-st-croix-falls-to-trade-river) - 28mi
-	* [Ice Age Trail 2](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-monches-to-kettle-morraine-state-forest) - 45mi
+	* [ ] [Ice Age Trail 1](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-st-croix-falls-to-trade-river) - 28mi
+	* [ ] [Ice Age Trail 2](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-monches-to-kettle-morraine-state-forest) - 45mi
 * Minnesota 10/16ish
-	* [Superior Hiking Trail](https://www.alltrails.com/trail/us/minnesota/superior-hiking-trail-section-4/) - 49mi
+	* [ ] [Superior Hiking Trail](https://www.alltrails.com/trail/us/minnesota/superior-hiking-trail-section-4/) - 49mi
 * South Dakota 10/23ish
-	* [Badlands](https://www.nps.gov/badl/index.htm)
+	* [ ] [Badlands](https://www.nps.gov/badl/index.htm)
 * Wyoming 10/30ish
-	* [Hitchcock Nature Center Loop](https://www.alltrails.com/trail/us/iowa/hitchcock-nature-center-loop-trail) - 6.3mi #mustsee 
+	* [ ] [Hitchcock Nature Center Loop](https://www.alltrails.com/trail/us/iowa/hitchcock-nature-center-loop-trail) - 6.3mi #mustsee 
 		* $7.50 [camping](https://www.pottconservation.com/parks/hitchcock_nature_center/) 
+	* [ ] [Yellowstone](https://www.nps.gov/yell/index.htm) #nofires
 ## Option 2
 26hrs
 * Indiana
