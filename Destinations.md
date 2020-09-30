@@ -20,7 +20,7 @@ In order of drive through
 		* [ ] [High Knob to Twin Towers Loop Trail](https://www.alltrails.com/trail/us/illinois/high-knob-to-twin-towers-loop-trail) - 6.1mi
 		* [ ] [Buzzards Point and Whiskey Cave](https://www.alltrails.com/trail/us/illinois/buzzards-point-and-whiskey-cave-loop) - 6.5mi
 		* [ ] [Garden of the Gods Backdoor Loop](https://www.alltrails.com/trail/us/illinois/garden-of-the-gods-backdoor-loop-trail--2) - 10mi
-			* Has access to Indian point and river to river trails
+			* Has access to Indian Point and river to river trails
 		* [ ] [Whiskey Cave Loop Trail](https://www.alltrails.com/trail/us/illinois/whiskey-cave-loop-trail) - 6.5mi
 * Wisconsin 10/9ish
 	* [ ] [Ice Age Trail 1](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-st-croix-falls-to-trade-river) - 28mi
