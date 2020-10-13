@@ -1,10 +1,11 @@
 # To Visit
 In order of drive through
 
-## Current Route
+## Maps
 1. [Ohio to Arkansas route](https://goo.gl/maps/yrzobcet1WkkCJWX7)
 2. [Arkansas to Ohio route](https://goo.gl/maps/BGdHXD7HT1FjLjox6)
-27hrs
+
+## Current Route
 * Indiana 9/25
 	* [x] [Indiana Dunes NP](https://www.nps.gov/indu/index.htm) #short
 		* ~~[Camping](https://www.nps.gov/indu/planyourvisit/campgrounds.htm) $25/night~~
