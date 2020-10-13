@@ -1,55 +1,32 @@
 # To Visit
 In order of drive through
-## Option 1
+
+## Current Route
+1. [Ohio to Arkansas route](https://goo.gl/maps/yrzobcet1WkkCJWX7)
+2. [Arkansas to Ohio route](https://goo.gl/maps/BGdHXD7HT1FjLjox6)
 27hrs
 * Indiana 9/25
 	* [x] [Indiana Dunes NP](https://www.nps.gov/indu/index.htm) #short
 		* ~~[Camping](https://www.nps.gov/indu/planyourvisit/campgrounds.htm) $25/night~~
 	* [x] [Prophetstown](https://www.in.gov/dnr/parklake/2971.htm)
-	* [ ] [Turkey Run State Park](https://www.alltrails.com/parks/us/indiana/turkey-run-state-park)
-	* Another time
-		* [John Grubb Ridge](https://www.alltrails.com/trail/us/indiana/john-grubb-ridge-and-terrill-ridge-loop-trail) - 19mi
-		* [Tecumseh Trail](https://www.alltrails.com/trail/us/indiana/the-tecumseh-trail) - 41mi
 * Illinois 10/2ish
-	* Maybe
-		* [River to River Trail, part 1](https://www.alltrails.com/trail/us/illinois/river-to-river-trail-first-section)
-		* [River to River Trail, full](https://www.alltrails.com/trail/us/illinois/river-to-river-trail?ref=header)
-	* Promising, series of short (6mi) hikes
-		* Camping $10/night
-		* [ ] [Rice Hollow Trail Loop](https://www.alltrails.com/trail/us/illinois/rice-hollow-trail-loop) - 6.9mi
-		* [ ] [High Knob to Twin Towers Loop Trail](https://www.alltrails.com/trail/us/illinois/high-knob-to-twin-towers-loop-trail) - 6.1mi
-		* [ ] [Buzzards Point and Whiskey Cave](https://www.alltrails.com/trail/us/illinois/buzzards-point-and-whiskey-cave-loop) - 6.5mi
-		* [ ] [Garden of the Gods Backdoor Loop](https://www.alltrails.com/trail/us/illinois/garden-of-the-gods-backdoor-loop-trail--2) - 10mi
-			* Has access to indian point and river to river trails
-		* [ ] [Whiskey Cave Loop Trail](https://www.alltrails.com/trail/us/illinois/whiskey-cave-loop-trail) - 6.5mi
-* Wisconsin 10/9ish
-	* [ ] [Ice Age Trail 1](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-st-croix-falls-to-trade-river) - 28mi
-	* [ ] [Ice Age Trail 2](https://www.alltrails.com/trail/us/wisconsin/ice-age-trail-monches-to-kettle-morraine-state-forest) - 45mi
-* Minnesota 10/16ish
-	* [ ] [Superior Hiking Trail](https://www.alltrails.com/trail/us/minnesota/superior-hiking-trail-section-4/) - 49mi
-* South Dakota 10/23ish
-	* [ ] [Badlands](https://www.nps.gov/badl/index.htm)
-* Wyoming 10/30ish
-	* [ ] [Hitchcock Nature Center Loop](https://www.alltrails.com/trail/us/iowa/hitchcock-nature-center-loop-trail) - 6.3mi #mustsee 
-		* $7.50 [camping](https://www.pottconservation.com/parks/hitchcock_nature_center/) 
-	* [ ] [Yellowstone](https://www.nps.gov/yell/index.htm) #nofires
-## Option 2
-26hrs
-* Indiana
-* Illinois
-* Iowa
-* Nebraska
-		* [Brent's Trail](https://www.alltrails.com/explore/trail/us/iowa/brents-trail--2) #short
-		* [Scotts Bluff](https://www.nps.gov/scbl/index.htm) #short 
-* Wyoming
-## Option 3
-28hrs
-* Indiana
-* Illinois
-* Missouri
-* Kansas/Nebraska
-* Wyoming
-	* [Yellowstone](https://www.nps.gov/yell/index.htm)
+	* Camping $10/night
+	* [x] [Tapawingo Park](https://www.westlafayette.in.gov/egov/apps/locations/facilities.egov?view=detail&id=15)
+	* [x] [Turkey Run State Park](https://www.alltrails.com/parks/us/indiana/turkey-run-state-park)
+* Arkansas 10/2ish
+	* [x] [Garden of the Gods Backdoor Loop](https://www.alltrails.com/trail/us/illinois/garden-of-the-gods-backdoor-loop-trail--2)
+	* [x] Hot Springs National Park - view at the peak
+	* [x] [Pinnacle Mountain East Summit Trail](https://www.alltrails.com/trail/us/arkansas/pinnacle-mountain-east-summit-trail)
+	* [x] [Mount Nebo Rim Trail](https://www.alltrails.com/trail/us/arkansas/mount-nebo-rim-trail)
+	* [x] [Centerpoint to Goat Trail](https://www.alltrails.com/trail/us/arkansas/goat-trail-to-big-bluff)
+* Oklahoma 10/9ish
+	* [ ] [Northeastern University Broken Arrow Trail](https://www.alltrails.com/trail/us/oklahoma/northeastern-state-university-broken-arrow-nature-trail) - 5.8mi
+* Texas 10/15ish
+* New Mexico 10/20ish
+* Colorado 10/24
+* Kansas 10/27ish
+* Ohio 11/1
+
 # Would Visit
 * Colorado
 	* [Black Canyon](https://www.nps.gov/blca/index.htm) of Gunnison National Park 
@@ -66,7 +43,7 @@ In order of drive through
 * Oregon
 	* [Crater Lake](https://www.nps.gov/crla/index.htm) - no food or gas, power outage
 * South Dakota
-	* [Badlands](https://www.nps.gov/badl/index.htm)
+	* ==[Badlands](https://www.nps.gov/badl/index.htm)==
 * Utah
 	* [Arches National Park](https://www.nps.gov/arch/index.htm) #blackbears 
 	* [Bryce Canyon](https://www.nps.gov/brca/index.htm) #mountainlions
@@ -90,8 +67,7 @@ In order of drive through
 * Utah
 	* Regions of Zion National Park - [toxic cyanobacteria bloom](https://www.nps.gov/zion/planyourvisit/toxic-cyanobacteria-bloom-in-the-virgin-river-and-the-streams-of-zion-national-park.htm) as of Aug 10
 		* Virgin River
-		* All streams
-* 
+		* All streams 
 
 # Safety
 * [Bear safety](https://www.nps.gov/shen/planyourvisit/bear-safety.htm)

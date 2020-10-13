@@ -8,3 +8,8 @@ This repo is to share my backpacking lists, specifically the to bring list. I wi
 
 1. [To-bring list](https://github.com/pomkos/backpacking/blob/master/To%20Bring%20List.md)
 2. [Destinations](https://github.com/pomkos/backpacking/blob/master/Destinations.md)
+
+# Route
+
+The [currently done](https://goo.gl/maps/S3cLE5EhXsmnTKAj8) route is pictured below. Next up: Garden of the Gods, Illinois!
+
