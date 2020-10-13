@@ -23,10 +23,14 @@ In order of drive through
 * Oklahoma 10/9ish
 	* [ ] [Northeastern University Broken Arrow Trail](https://www.alltrails.com/trail/us/oklahoma/northeastern-state-university-broken-arrow-nature-trail) - 5.8mi
 * Texas 10/15ish
-* New Mexico 10/20ish
+	* Meet up with Roos and Grace and Ramiro
+* New Mexico 10/19ish
 * Colorado 10/24
+	* Meet up with Steve, Aron, Julie, Blaise, Cam, Hunter, Roos
 * Kansas 10/27ish
 * Ohio 11/1
+	* Steve's birthday
+	* Election day
 
 # Would Visit
 * Colorado
