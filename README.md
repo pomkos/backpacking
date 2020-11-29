@@ -11,5 +11,6 @@ This repo is to share my backpacking lists, specifically the to bring list. I wi
 
 # Route
 
-The [currently done](https://goo.gl/maps/S3cLE5EhXsmnTKAj8) route is pictured below. Next up: Garden of the Gods, Illinois!
+The [entire](https://www.google.com/maps/d/u/0/edit?mid=1GGfOeqwNDjZYtL3dYGlSit8sWXhgzJWN&usp=sharing) route is pictured below.
 
+<img src="https://github.com/pomkos/backpacking/blob/master/entire_route.png" width="620">
