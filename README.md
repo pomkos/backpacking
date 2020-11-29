@@ -4,6 +4,8 @@
 
 This repo is to share my backpacking lists, specifically the to bring list. I will be editing and updating the destinations as I come across anything.
 
+(Note: destinations document is not up to date as of Nov 2020. See Route for details)
+
 # ToC
 
 1. [To-bring list](https://github.com/pomkos/backpacking/blob/master/To%20Bring%20List.md)
