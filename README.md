@@ -11,6 +11,6 @@ This repo is to share my backpacking lists, specifically the to bring list. I wi
 
 # Route
 
-The [entire](https://www.google.com/maps/d/u/0/edit?mid=1GGfOeqwNDjZYtL3dYGlSit8sWXhgzJWN&usp=sharing) route is pictured below.
+The entire route is pictured below, but [click me](https://www.google.com/maps/d/u/0/edit?mid=1GGfOeqwNDjZYtL3dYGlSit8sWXhgzJWN&usp=sharing) for an interactive map!.
 
 <img src="https://github.com/pomkos/backpacking/blob/master/entire_route.png" width="620">
